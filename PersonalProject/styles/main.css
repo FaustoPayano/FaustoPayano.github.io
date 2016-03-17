@@ -1,0 +1,11 @@
+﻿.body { 
+  background: url(..\\img\\background.JPG) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.red-text {
+    color: red;
+}
